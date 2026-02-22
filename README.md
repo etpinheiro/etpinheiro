@@ -56,15 +56,15 @@
 
 ---
 
-### GitHub Stats
+### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etpinheiro&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f1a&title_color=e8553d&icon_color=e8553d&text_color=94a3b8" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etpinheiro&layout=compact&theme=radical&hide_border=true&bg_color=0b0f1a&title_color=e8553d&text_color=94a3b8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=etpinheiro&show_icons=true&locale=pt-br&hide_border=true&bg_color=0b0f1a&title_color=e8553d&icon_color=e8553d&text_color=f0f2f5&ring_color=e8553d" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etpinheiro&layout=compact&locale=pt-br&hide_border=true&bg_color=0b0f1a&title_color=e8553d&text_color=f0f2f5" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=etpinheiro&theme=radical&hide_border=true&background=0b0f1a&ring=e8553d&fire=e8553d&currStreakLabel=e8553d" />
+  <img src="https://streak-stats.demolab.com/?user=etpinheiro&locale=pt_BR&hide_border=true&background=0b0f1a&ring=e8553d&fire=e8553d&currStreakLabel=e8553d&sideLabels=f0f2f5&currStreakNum=f0f2f5&sideNums=f0f2f5&dates=94a3b8&stroke=161d2f" />
 </p>
 
 ---
@@ -83,11 +83,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=etpinheiro&color=e8553d&style=flat-square&label=Visitantes"/>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etpinheiro/etpinheiro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/etpinheiro/etpinheiro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/etpinheiro/etpinheiro/output/pacman-contribution-graph.svg">
-</picture>
-
-###
